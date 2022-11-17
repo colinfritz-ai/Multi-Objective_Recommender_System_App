@@ -1,7 +1,7 @@
 # Multi-Objective_Recommender_System_App
 
 ## Project Objective
-The goal of this project is to build a multi-objective recommender system OTTO can use to better predict e-commerce clicks, cart additions, and orders based on previous events in user sessions.  This model or suite of models should then be deployed in a web application.  The requirements for the web app are it should be useable by 100+ simultaneous users, have a reasonablt aesthetic front end + UI, and be up 24/7.  
+The goal of this project is to build a multi-objective recommender system OTTO can use to better predict e-commerce clicks, cart additions, and orders based on previous events in user sessions.  This model or suite of models should then be deployed in a web application.  The requirements for the web app are it should be useable by 1000+ simultaneous users, have a reasonably aesthetic front end + UI, and be up 24/7. A robust testing framework should be made as well.    
 
 With more than 10 million products from over 19,000 brands, OTTO is the largest German online shop. OTTO is a member of the Hamburg-based, multi-national Otto Group, which also subsidizes Crate & Barrel (USA) and 3 Suisses (France).
 
